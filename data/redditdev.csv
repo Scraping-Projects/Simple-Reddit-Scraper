@@ -1,0 +1,482 @@
+author,created_utc,id,is_original_content,is_self,link_flair_text,locked,name,num_comments,over_18,permalink,score,selftext,spoiler,stickied,subreddit,title,upvote_ratio,url
+Vegetable_Price5537,1688501480.0,14qplta,False,True,Reddit API,False,t3_14qplta,1,False,/r/redditdev/comments/14qplta/how_do_i_see_reddit_by_pages/,3,"Like page 1, first 25 posts, page 2, the following 25 posts, i remember this being an option, how do i see it?",False,False,redditdev,how do i see reddit by pages?,0.71,https://www.reddit.com/r/redditdev/comments/14qplta/how_do_i_see_reddit_by_pages/
+hiderostash,1688332684.0,14ozjy1,False,True,Reddit API,False,t3_14ozjy1,8,False,/r/redditdev/comments/14ozjy1/webscraping_user_comments/,9,New to scraping reddit. I'm looking for a way to collect all comments I've made on an account that I've forgotten the credentials to. I was able to scrape a majority of my comments from r/learningpython after some digging. It takes a while to scrape the individual subreddits I used to frequent. I can see all my comments on my older user account. Is there a way to scrape from my user acc (u/) instead of the individual subreddits (r/)?,False,False,redditdev,Webscraping user comments,0.91,https://www.reddit.com/r/redditdev/comments/14ozjy1/webscraping_user_comments/
+dejavits,1688271924.0,14oevki,False,True,PRAW,False,t3_14oevki,2,False,/r/redditdev/comments/14oevki/how_to_use_use_praw_library_with_access_and/,1,"Hello all,  
+
+
+I have followed a Reddit Oauth tutorial I found on Internet where the user logins into Reddit and let the application get a pair of access and refresh tokens from the user.  
+
+
+I want to query Reddit from my backend and as far as I understand I could query the API with the access\_token and refresh\_tokens. However, considering my backend is in Python. Is there a way to use the praw library directly instead of writing the requests?  
+
+
+Thank you in advance and regards,",False,False,redditdev,How to use use Praw library with access and refresh tokens?,0.67,https://www.reddit.com/r/redditdev/comments/14oevki/how_to_use_use_praw_library_with_access_and/
+MonkeMusk1234,1688210594.0,14nsobx,False,True,PRAW,False,t3_14nsobx,8,False,/r/redditdev/comments/14nsobx/i_am_making_a_discord_bot_and_i_want_it_to_post/,8,.,False,False,redditdev,I am making a Discord Bot and i want it to post memes from reddit in the text channels . I wanted to ask .I am confused about the recent api change stuff . Will the reddit api charge for it ?,0.83,https://www.reddit.com/r/redditdev/comments/14nsobx/i_am_making_a_discord_bot_and_i_want_it_to_post/
+pl00h,1688158596.0,14nbw6g,False,True,,False,t3_14nbw6g,98,False,/r/redditdev/comments/14nbw6g/updated_rate_limits_going_into_effect_over_the/,0,"Hi Devs,
+
+Over the last few months, we’ve shared [updates](https://www.reddit.com/r/reddit/comments/12qwagm/an_update_regarding_reddits_api/) on our [Data API Terms](https://www.redditinc.com/policies/data-api-terms) and [Developer Terms](https://www.redditinc.com/policies/developer-terms). **Shortly, we will begin enforcing the** [**previously announced**](https://www.reddit.com/r/redditdev/comments/13wsiks/api_update_enterprise_level_tier_for_large_scale/)**,** [**updated API rate limits**](https://support.reddithelp.com/hc/en-us/articles/16160319875092-Reddit-Data-API-Wiki)**.** Rate limits will go into effect for all apps with usage above the free limit in the coming weeks, and some changes will be noticeable over the next 24 hours.
+
+As [we have shared](https://www.reddit.com/r/modnews/comments/141oqn8/api_updates_questions/), this will not impact non-commercial bots operating within free rate limits or moderator tools. 
+
+**Free API access rates are as follows**:
+
+* 100 queries per minute per OAuth client id if you are using OAuth authentication
+* 10 queries per minute if you are not using OAuth authentication
+
+**The vast majority of third-party apps and bots fall into the free usage category and should not see any disruptions**. **Our free rates account for bursts in usage.**
+
+For apps that exceed these limits, we have exempted select clients (for example, accessibility-focused apps like RedReader, Luna, and Dystopia), mod bots, and mod tools. **If your bot or tool is affected unexpectedly, please reach out** [**here**](https://reddithelp.com/hc/en-us/requests/new?ticket_form_id=14868593862164)**.**",False,True,redditdev,Updated rate limits going into effect over the coming weeks,0.42,https://www.reddit.com/r/redditdev/comments/14nbw6g/updated_rate_limits_going_into_effect_over_the/
+hunting_fatherhood,1688092896.0,14mo4nj,False,True,PRAW,False,t3_14mo4nj,2,False,/r/redditdev/comments/14mo4nj/how_would_i_get_a_users_submission_self_text_in_a/,0,I want to analyze the self text of all submissions of a specific user in a specific subreddit. I’m totally new to PRAW.,False,False,redditdev,How would I get a user’s submission self text in a particular subreddit?,0.33,https://www.reddit.com/r/redditdev/comments/14mo4nj/how_would_i_get_a_users_submission_self_text_in_a/
+No_Action_9027,1688065870.0,14mdkjy,False,True,Reddit API,False,t3_14mdkjy,0,False,/r/redditdev/comments/14mdkjy/api_support_from_reddit_for_acedemic_research/,2,"Hello everyone, I am confused that now I submitted API support for academic research. But I am confused that : 1)  does this support only give me more rates of query? Is there any technical differences between with and without the support? 2) do I still need to write my own codes to scrape the data if the support is approved? Because I am not good at crawling the websites. ",False,False,redditdev,API Support from Reddit for Acedemic Research,0.62,https://www.reddit.com/r/redditdev/comments/14mdkjy/api_support_from_reddit_for_acedemic_research/
+No_Action_9027,1688061096.0,14mbkdx,False,True,Reddit API,False,t3_14mbkdx,1,False,/r/redditdev/comments/14mbkdx/alternatives_after_pushshift_is_down/,14,"Hello everyone, I am a graduate student who is researching text mining in Reddit. Since Pushshift is down, I could only get access to some dumped files collected by other people, like this [https://academictorrents.com/details/c398a571976c78d346c325bd75c47b82edf6124e](https://academictorrents.com/details/c398a571976c78d346c325bd75c47b82edf6124e). However, now I would like to search posts with some keywords in the full-history Reddit data. Those dumped files are too large to do that. I know previously, with the use of Reddit API, Pushshift can do this for you. 
+
+Therefore, I am wondering how to do this without Pushshift for now? Can PRAW do this? I am not a very technical programmer for crawling the websites, can anyone tell me how to fetch the data I want with Reddit API? ",False,False,redditdev,Alternatives after Pushshift is down,0.82,https://www.reddit.com/r/redditdev/comments/14mbkdx/alternatives_after_pushshift_is_down/
+LaraStardust,1688029551.0,14lzz2i,False,True,PRAW,False,t3_14lzz2i,2,False,/r/redditdev/comments/14lzz2i/how_can_you_tell_if_a_wiki_is_enabled_for_a/,3,"Basically what the title says.
+Is there a way to tell, if you are not a mod, if the wiki for a subreddit is enabled?",False,False,redditdev,How can you tell if a wiki is enabled for a subreddit?,0.8,https://www.reddit.com/r/redditdev/comments/14lzz2i/how_can_you_tell_if_a_wiki_is_enabled_for_a/
+vaibhav_khati,1688029541.0,14lzyzq,False,True,Reddit API,False,t3_14lzyzq,2,False,/r/redditdev/comments/14lzyzq/need_help_with_reddit_api_count_difference_in/,0,"I am using reddit api to get the report for a particular month. The problem I am currently facing is the difference between the UI and API data for columns like Spend, impressions and Clicks.  
+Does anyone know, how reddit calculate ""Spend"" or ""impressions""?",False,False,redditdev,"Need help with Reddit API. Count difference in spend, impression and clicks.",0.44,https://www.reddit.com/r/redditdev/comments/14lzyzq/need_help_with_reddit_api_count_difference_in/
+DystopiaForReddit,1687987307.0,14llk3n,False,True,Reddit API,False,t3_14llk3n,0,False,/r/redditdev/comments/14llk3n/mobile_oauth_page_redirects_users_to_home_page_in/,5,"Hey! 
+
+Some some of my users are having trouble authenticating in my app; they say that instead of seeing the OAuth authorize page after signing in, they're simply being redirected to the reddit home page. So far I've only had a tiny fraction of people hit this but I'm not quite sure what's going on and would love to know if anyone else has been hitting this. The only workaround I (or, in fact, one of my users) found is that manually going to old.reddit.com/api/v1/authorize?... (instead of just www.reddit.com/api/v1/authorize?...) works. This is really annoying though and I'd prefer not to send everyone through there since the old Reddit OAuth screen is really clunky on small mobile screens. I've never managed to hit so I'm not sure what to make of this.
+
+Some recent user reports:
+
+* https://www.reddit.com/r/DystopiaForReddit/comments/14kpbu2/download_dystopia_on_the_app_store/jpsxlq8/ (notably, they seem to hit some sort of redirect page too? https://imgur.com/a/uxtAUZf )
+* https://www.reddit.com/r/DystopiaForReddit/comments/14kpbu2/download_dystopia_on_the_app_store/jpubsmu/
+
+Thank you!",False,False,redditdev,Mobile OAuth page redirects users to home page in some rare cases?,0.85,https://www.reddit.com/r/redditdev/comments/14llk3n/mobile_oauth_page_redirects_users_to_home_page_in/
+foxygrandpa__,1687940640.0,14l3ou0,False,True,Reddit API,False,t3_14l3ou0,1,False,/r/redditdev/comments/14l3ou0/is_there_a_way_to_filter_a_listing_response_by/,2,"Endpoint: https://old.reddit.com/dev/api/#GET_user_{username}_saved
+
+Looking at the input parameters there doesn't seem to be a way to filter by subreddit.
+
+However, what about the `show` parameter? Based on the docs it can be ""one of `given`"". What exactly does that mean? And in the docs overview at the top of the page it says `show` can be set to `all`.
+
+I'd appreciate anyone explaining what this parameter really is and if it somehow can be used to filter the listings by subreddit. Thanks!",False,False,redditdev,Is there a way to filter a Listing response by subreddit (for example the /username/saved endpoint),1.0,https://www.reddit.com/r/redditdev/comments/14l3ou0/is_there_a_way_to_filter_a_listing_response_by/
+Deleted_Squirt,1687938950.0,14l382x,False,True,PRAW,False,t3_14l382x,4,False,/r/redditdev/comments/14l382x/reddit_reply_bot_credentials/,2,"I created a simple reply bot based on PRAW doc example.  
+Are the credentials in the request sent unencripted so can be intercepted between my server and reddit?  
+Can bots running on remote servers establish secure session with reddit?",False,False,redditdev,Reddit reply bot credentials,0.75,https://www.reddit.com/r/redditdev/comments/14l382x/reddit_reply_bot_credentials/
+Buck73711,1687908871.0,14kta7t,False,True,redditdev meta,False,t3_14kta7t,1,False,/r/redditdev/comments/14kta7t/embedding_videos_on_reddit/,0,"I have a site where users can host videos. Is there a way I can get videos from my site embedded on reddit posts when someone posts a link to them much like youtube, imgur, redgifs, etc? I really need this to work.",False,False,redditdev,Embedding videos on reddit,0.25,https://www.reddit.com/r/redditdev/comments/14kta7t/embedding_videos_on_reddit/
+Neoco1,1687902257.0,14kqjcz,False,True,Reddit API,False,t3_14kqjcz,4,False,/r/redditdev/comments/14kqjcz/application_only_oauth_attempt_results_in/,2,"I'm attempting to make an Application Only authorization request to the Reddit API but it's not getting fulfilled. It either gets rejected or hangs in the pending state without resolving. Here's the code I'm using:
+
+    export const requestGuestToken = createAsyncThunk(
+    'header/requestGuestToken',
+    async (params, thunkAPI) => {
+        const res = await fetch(
+            'https://www.reddit.com/api/v1/access_token',
+            {
+                method: 'POST',
+                headers: {
+                    'Authorization': `Basic ${Buffer.from(`${params.client_id}:`).toString('base64')}`,
+                    'Content-type': 'application/x-www-form-urlencoded'
+                },
+                body: 'grant_type=client_credentials'
+            }
+        );
+        const jsonRes = await res.json();
+        return jsonRes;
+    }
+)
+
+I've seen others use the [`https://oauth.reddit.com/grants/installed_client`](https://oauth.reddit.com/grants/installed_client) grant type but I'm using the `client_credentials` grant because this is the grant type recommended by the GitHub article for web apps. I also omit the `device_id` field because it is not applicable to `client_credentials` grants.",False,False,redditdev,Application Only OAuth attempt results in rejection or hangs in pending,1.0,https://www.reddit.com/r/redditdev/comments/14kqjcz/application_only_oauth_attempt_results_in/
+noodlebenji,1687868850.0,14kcdw1,False,True,Reddit API,False,t3_14kcdw1,1,False,/r/redditdev/comments/14kcdw1/fetching_trending_today_posts/,0,"Does anyone know how I would make a request for the ""trending today"" posts? I'm looking for the same ones that appear when you click the search input on the reddit header...",False,False,redditdev,fetching trending today posts...,0.5,https://www.reddit.com/r/redditdev/comments/14kcdw1/fetching_trending_today_posts/
+Furrystonetoss,1687868446.0,14kc8jv,False,False,Other API Wrapper,False,t3_14kc8jv,1,False,/r/redditdev/comments/14kc8jv/i_wanted_to_create_two_moderation_bots_with/,0,,False,False,redditdev,"I wanted to create two moderation bots with pushisft. Is there any kind of alternative, that let's me realise those bots ?",0.5,/r/help/comments/14kb5ob/i_wanted_to_create_two_moderation_bots_with/
+vanessabaxton,1687792556.0,14jk1to,False,True,PRAW,False,t3_14jk1to,9,False,/r/redditdev/comments/14jk1to/is_there_a_way_to_set_up_automod_notifications/,1,"I want to get notified about a certain event from Automod and the only way I could think of how is as follows:
+
+```
+reddit.subreddit(""subredditname"").modmail.create(
+      subject=""User has potentially broken rule"",
+      body=f""{submission.author}"",
+      recipient=""AutoModerator"")
+```
+
+It sort of works but feels like a workaround, is there a better way to do this (it can't be done in Automod config as it's a custom Python script)?",False,False,redditdev,Is there a way to set up AutoMod notifications through PRAW by creating a modmail?,0.57,https://www.reddit.com/r/redditdev/comments/14jk1to/is_there_a_way_to_set_up_automod_notifications/
+DataLoreCanon-cel,1687712454.0,14ir8cg,False,True,Reddit API,False,t3_14ir8cg,8,False,/r/redditdev/comments/14ir8cg/question_about_oldreddit_and_a_file_called/,3,"So according to Hybrid Analysis, old.reddit.com is a ""suspicious"" site, and one of the ""files extracted during detonation"" called mini-wallet.html"" is marked as ""malicious"":  
+https://www.hybrid-analysis.com/sample/5c125fa9cadf79c901dcf22bdf50286fe40db375c3b8cee96c430c462416e4bf
+
+&nbsp;
+
+That file is not present on the main reddit page:  
+page for https://www.reddit.com:
+https://www.hybrid-analysis.com/sample/186d8790fec7564b4f81100471788e2291dbbaa950a72fe8497b07bbc16a5697
+
+... which is marked as even worse, outright ""malicious"" lol - and contains a different sus file instead called ""widevinecdm.dll"" which just seems to be a standard Microsoft Edge thing?  
+https://community.norton.com/en/forums/widevinecdmdll-1
+
+&nbsp;
+
+So idk Hybrid Analysis seems to be overreacting quite a bit?  
+
+Still a bit curious about what this ""mini-wallet.html"" thing is and what it's doing specifically on old.reddit - does old.reddit run through 3rd party apps or how is that working?  
+Is that connected to this somehow?
+
+I've been told this mini-wallet is a cryptomining thing, lack the context for that though;  
+encountered it on a relatively obscure game emu site and initially thought it was malware/compromised, so seems quite ubiquitous - anyone know more about this?",False,False,redditdev,"Question about old.reddit and a file called ""mini-wallet.html"" found on it?",0.6,https://www.reddit.com/r/redditdev/comments/14ir8cg/question_about_oldreddit_and_a_file_called/
+Ralph_T_Guard,1687669680.0,14idgpd,False,True,Reddit API,False,t3_14idgpd,4,False,/r/redditdev/comments/14idgpd/excessive_504_errors_on_multireddit_with_hidden/,6,"summary: I'm receiving 504 errors when calling `reddit.subreddit().new()` on a multireddit of mostly hidden submissions. Querying the same subbreddits individually has 25% chance of 504'ing out. Querying multireddits & subreddits w/o hidden submissions is nearly 100% successful.
+
+I am using PRAW, but I'm reasonably certain the issue is upstream of the wrapper.
+
+    candidates = { 'DataHoarder', 'buildapcsales', 'cablegore', 'pihole', 'hardware' }
+    # candidates = set()
+    num_subreddits = 5
+    max_attempts = num_subreddits + 5   
+    while num_subreddits > len( candidates ) and 1 < max_attempts:
+        candidates.add( reddit.random_subreddit( nsfw = True ).display_name )
+        max_attempts -= 1
+    candidates = sorted( list( candidates ) )
+    print( ""subreddits: {:}"".format( "", "".join( candidates ), file = sys.stdout ) )
+    for width in [ 1, 2, 4 ]:
+        print( ""#\n# query {:} at a time\n#"".format( width ), file = sys.stdout )
+        for start in range( 0, len( candidates ), width ):
+            try:
+                stop = ( start + width if start + width <= len( candidates ) else len( candidates ) )
+                ids = [ submission.id for submission in reddit.subreddit( ""+"".join( candidates[ start : stop ] ) ).new( limit = None ) ]
+                print( ""ids: {:}"".format( len( ids ) ), file = sys.stdout )
+            except RedditAPIException as exception:
+                print( ""error: exception: {:}"".format( exception) )
+                continue",False,False,redditdev,excessive 504 errors on multireddit with hidden submissions,0.88,https://www.reddit.com/r/redditdev/comments/14idgpd/excessive_504_errors_on_multireddit_with_hidden/
+KobaStern,1687642934.0,14i4gy3,False,True,PRAW,False,t3_14i4gy3,6,False,/r/redditdev/comments/14i4gy3/getting_more_than_100_values/,1,"Because Pushshift is dead, I have to use PRAW for my master's thesis. I'm doing sentiment analysis on certain stock submissions. I know there is a hard coded limit of 1000 submissions, I only get approximetly 100-200 submissions retrived. I don't understand why. I tried with ""all"", different limits, different stocks, subreddits, but i can not get past more than 200
+
+&#x200B;
+
+&#x200B;
+
+    subreddit = reddit.subreddit('AMD_Stock')
+    ticker = ""Daily"" 
+    def get_date(date): 
+    return dt.datetime.fromtimestamp(date) 
+    results = []  
+    desired_limit = 1000
+    submissions_collected = 0
+    for submission in subreddit.search(ticker, sort='new', limit=None): 
+    if submission.domain != ""self.AMD_Stock"": 
+        continue 
+    results.append(submission.id)  
+    submissions_collected += 1
+    if submissions_collected >= desired_limit:
+        break  
+
+&#x200B;",False,False,redditdev,Getting more than 100 values ?,1.0,https://www.reddit.com/r/redditdev/comments/14i4gy3/getting_more_than_100_values/
+goldieczr,1687622580.0,14hwl6r,False,True,Reddit API,False,t3_14hwl6r,8,False,/r/redditdev/comments/14hwl6r/does_the_rate_limit_apply_to_application_or_ip/,7,"I want to build an app that analyzes the growth of posts in certain subreddits over time. This means that every post has to be checked for upvotes, comments and shares at a fixed interval (as fast as possible for accurate tracking). For tens of new posts every day in multiple subreddits, this would hit the rate limit extremely fast, so the question is: does the rate limit apply to bots, accounts or IPs? If I have an account with multiple bots that constantly scrape the required data, will every bot have it's own rate limit or will they have a shared rate limit because of the common account / IP?",False,False,redditdev,Does the rate limit apply to application or IP?,1.0,https://www.reddit.com/r/redditdev/comments/14hwl6r/does_the_rate_limit_apply_to_application_or_ip/
+zaphir3,1687552590.0,14h91m2,False,True,Reddit API,False,t3_14h91m2,8,False,/r/redditdev/comments/14h91m2/is_there_a_way_to_get_shorter_access_token/,6,"I wanted to use the reddit API with a PLC. I noticed, with postman, that the Oauth token is about 700 to 800 characters long. Problem is, I can't have a string variable longer than 256 charaters (PLC's restriction).
+
+After looking it up on the internet, I realized that this change occured a 1-2 months ago.
+
+I  was wondering if there was a way to read comments within a thread without Oauth authentification, or if there was a way to get a shorter token.
+
+I don't know much about API in general. I only know how to get my oauth token, and do get and post requests with the right parameters.  I've set up an application that is currently running on twitch's API with my PLC. I could use RSS stream, but it's a lot of extra work for a PLC.",False,False,redditdev,Is there a way to get shorter access token ?,0.88,https://www.reddit.com/r/redditdev/comments/14h91m2/is_there_a_way_to_get_shorter_access_token/
+theNeumannArchitect,1687543380.0,14h5b9b,False,True,Reddit.NET,False,t3_14h5b9b,3,False,/r/redditdev/comments/14h5b9b/getting_403_when_trying_to_scrape_tokens_even/,2,"Setup a scraper that goes through a list of subreddits and monitors for new comments or posts using the official Reddit nuget package. 
+
+Started getting 403 responses the last couple of days when trying to get comments from a sub. Figured it was the reddit api changes. I got a new access token calling [https://www.reddit.com/api/v1/access\_token](https://www.reddit.com/api/v1/access_token) instead of authing with my app id, app secret, and refresh token but still getting a 403. One of the subreddits I'm monitoring is wallstreetbets which is definitely public. 
+
+Not sure where to go from here....... I'm wondering if the package is broken with updates? I feel like it shouldn't be impacted since oauth process didn't really change. Any help or suggestions? ",False,False,redditdev,Getting 403 when trying to scrape tokens even after getting valid access token,0.67,https://www.reddit.com/r/redditdev/comments/14h5b9b/getting_403_when_trying_to_scrape_tokens_even/
+aaronrodgers10,1687541844.0,14h4okb,False,True,Reddit API,False,t3_14h4okb,6,False,/r/redditdev/comments/14h4okb/is_storing_reddit_data_pulled_from_the_reddit_api/,2,"For context: I'm working on a search platform that includes Reddit data and this is my first time using the Reddit API. I'm currently using the Reddit API to pull posts and comments from several subreddits to populate my database. Is this a violation of the Reddit TOS to store data internally? Of course, I will not be sharing this data with anyone else or using it for any other purpose besides to display on the search engine for certain queries.
+
+Thanks in advance!
+
+&#x200B;",False,False,redditdev,Is storing reddit data pulled from the Reddit API violating the TOS?,1.0,https://www.reddit.com/r/redditdev/comments/14h4okb/is_storing_reddit_data_pulled_from_the_reddit_api/
+Swarm140,1687502090.0,14gr19y,False,True,General Botmanship,False,t3_14gr19y,1,False,/r/redditdev/comments/14gr19y/trying_to_make_a_script_when_creating_an/,1,The error is the “you should check that url” one. I can keyboard mash for 30+ characters and it still will say I need to check that url. I’ve refreshed the page and restarted my computer to no avail,False,False,redditdev,"Trying to make a script when creating an application, redirect uri gives me error. How can I fix it?",0.67,https://www.reddit.com/r/redditdev/comments/14gr19y/trying_to_make_a_script_when_creating_an/
+Ralph_T_Guard,1687469585.0,14gfqqb,False,True,PRAW,False,t3_14gfqqb,5,False,/r/redditdev/comments/14gfqqb/unhiding_submissions/,1,"Apollo refugee looking to unhide the submissions the app has hidden in one subreddit only.
+
+* `reddit.subreddit(""DataHoarder"")…`  no bueno - hidden submissions are indeed hidden
+* `reddit.user.me().hidden()` taps out at 1k; if there's pagination beyond this, it eludes me…
+
+I'm beginning to believe the only viable path forward is to walk through `reddit.user.me().hidden()` unhiding every submission ( OMFG ), tracking the ids, and re-hide the submission ids outside of the target subreddit.
+
+any other ideas?",False,False,redditdev,unhiding submissions…,1.0,https://www.reddit.com/r/redditdev/comments/14gfqqb/unhiding_submissions/
+veryYoungDev,1687442685.0,14g4gbm,False,True,Reddit API,False,t3_14g4gbm,12,False,/r/redditdev/comments/14g4gbm/xratelimitremaining_was_removed/,10,"I still have this issue, but the last post related to this topic was closed as fixed.
+
+~~Upd: BTW I skipped grabbing rate limit headers right now and looks like there is some additional issues. I'm getting 403 forbidden on~~ [~~oauth.reddit.com/user/\*userName\*/submitted~~](https://oauth.reddit.com/user/*userName*/submitted)~~.~~ Sorry - that user was banned right before my requests. But still an issue with rate limit.",False,False,redditdev,X-Ratelimit-Remaining was removed?,0.92,https://www.reddit.com/r/redditdev/comments/14g4gbm/xratelimitremaining_was_removed/
+LaraStardust,1687376898.0,14fhean,False,True,PRAW,False,t3_14fhean,0,False,/r/redditdev/comments/14fhean/is_it_possible_to_reorder_flairs/,1,"Basically, what the title says.
+Is it possible to reorder the list that flairs appear in when listed?
+
+these are post flairs",False,False,redditdev,Is it possible to reorder flairs?,1.0,https://www.reddit.com/r/redditdev/comments/14fhean/is_it_possible_to_reorder_flairs/
+PrimordialTorque,1687314356.0,14eus44,False,True,PRAW,False,t3_14eus44,1,False,/r/redditdev/comments/14eus44/praw_crashing_on_a_nonexistent_user/,1,"I'm attempting to scrape the username and their associated avatar from a particular sub. PRAW is crashing on a nonexistent user. Here is the relevant code:
+
+    subreddit_name = ""blackmagicfuckery""
+    # Create a Reddit instance
+    reddit = praw.Reddit(
+        client_id=client_id,
+        client_secret=client_secret,
+        user_agent=user_agent,
+        username=username,
+        password=password,
+    )
+    subreddit = reddit.subreddit(subreddit_name)
+    submissions = subreddit.top(limit=10000)
+    for submission in submissions:
+        users = []
+        # since September 2022
+        if submission.created_utc > 1663484400:
+            print(submission.title)
+            print(submission.author)
+            a = submission.author
+            if a is not None:
+                if hasattr(a, ""icon_img""):
+                    if not a in users:
+                        users.append(a)
+            submission.comments.replace_more(limit=100000)
+            for comment in submission.comments.list():
+                print(comment.author)
+                a = comment.author
+                if a is not None:
+                    if hasattr(a, ""icon_img""):
+                        if not a in users:
+                            users.append(a)
+
+I logged both stdout and stderr to a log. Here is the relevant tail:
+
+    Fetching: GET https://oauth.reddit.com/user/DelmarSamil/about/
+    Data: None
+    Params: {'raw_json': 1}
+    Response: 200 (955 bytes)
+    Fetching: GET https://oauth.reddit.com/user/Normal-Sir-7446/about/
+    Data: None
+    Params: {'raw_json': 1}
+    Response: 200 (959 bytes)
+    Fetching: GET https://oauth.reddit.com/user/The_Quackening/about/
+    Data: None
+    Params: {'raw_json': 1}
+    Response: 200 (720 bytes)
+    Fetching: GET https://oauth.reddit.com/user/Jaeger562/about/
+    Data: None
+    Params: {'raw_json': 1}
+    Response: 200 (153 bytes)
+    Fetching: GET https://oauth.reddit.com/user/tunamelts2/about/
+    Data: None
+    Params: {'raw_json': 1}
+    Response: 200 (836 bytes)
+    Fetching: GET https://oauth.reddit.com/user/Strange-Web8129/about/
+    Data: None
+    Params: {'raw_json': 1}
+    Response: 404 (38 bytes)
+    boinger1988
+    jjrydberg
+    South-Employer-9977
+    YoPops24
+    _pr1ya
+    Scorpion_5150
+    Hammer-663
+    Bushes-Baked-Bean
+    No-Test-375
+    perversehves
+    u_alright_m8
+    Greedy-Designer-631
+    DelmarSamil
+    Normal-Sir-7446
+    The_Quackening
+    Jaeger562
+    tunamelts2
+    Strange-Web8129
+    Traceback (most recent call last):
+      File ""/home/ec2-user/blackmagicfuckery.py"", line 51, in <module>
+        if hasattr(a, ""icon_img""):
+      File ""/home/ec2-user/.local/lib/python3.9/site-packages/praw/models/reddit/base.py"", line 34, in __getattr__
+        self._fetch()
+      File ""/home/ec2-user/.local/lib/python3.9/site-packages/praw/models/reddit/redditor.py"", line 179, in _fetch
+        data = self._fetch_data()
+      File ""/home/ec2-user/.local/lib/python3.9/site-packages/praw/models/reddit/redditor.py"", line 188, in _fetch_data
+        return self._reddit.request(method=""GET"", params=params, path=path)
+      File ""/home/ec2-user/.local/lib/python3.9/site-packages/praw/util/deprecate_args.py"", line 43, in wrapped
+        return func(**dict(zip(_old_args, args)), **kwargs)
+      File ""/home/ec2-user/.local/lib/python3.9/site-packages/praw/reddit.py"", line 941, in request
+        return self._core.request(
+      File ""/home/ec2-user/.local/lib/python3.9/site-packages/prawcore/sessions.py"", line 330, in request
+        return self._request_with_retries(
+      File ""/home/ec2-user/.local/lib/python3.9/site-packages/prawcore/sessions.py"", line 266, in _request_with_retries
+        raise self.STATUS_EXCEPTIONS[response.status_code](response)
+    prawcore.exceptions.NotFound: received 404 HTTP response
+
+Any idea how to get around this?",False,False,redditdev,PRAW crashing on a nonexistent user,0.67,https://www.reddit.com/r/redditdev/comments/14eus44/praw_crashing_on_a_nonexistent_user/
+ExcitingishUsername,1687301685.0,14eq2ts,False,True,Reddit API,False,t3_14eq2ts,38,False,/r/redditdev/comments/14eq2ts/reddit_api_has_stopped_returning_ratelimit_headers/,79,"**Update: This appears to have been resolved as of about 90 minutes ago/2:30 UTC**
+
+The API has stopped returning any of the rate-limit headers as of an hour or so ago. This managed to break our bot, and probably many others that were relying on these to stay under quota.
+
+Is this the result of an outage/bug, or do API clients need to make changes now? If the latter, why was this change not announced?",False,False,redditdev,Reddit API has stopped returning rate-limit headers,0.92,https://www.reddit.com/r/redditdev/comments/14eq2ts/reddit_api_has_stopped_returning_ratelimit_headers/
+IamCharlee__27,1687290903.0,14el9f1,False,True,PRAW,False,t3_14el9f1,16,False,/r/redditdev/comments/14el9f1/after_params_doesnt_seem_to_work/,3,"Hi, newbie here.
+
+I'm trying to scrape a total of 1000 top submissions off of a subreddit for a school project.
+
+I'm using an OAuth app API connection (i hope I described this well) so I know to limit my requests to 100 items per request, and 60 requests per minute. I came up with the code below to scrape the total number of submissions I want, but within the Reddit API limits, but the 'after' parameter doesn't seem to be working. It just scrapes the first 100 submissions over and over again. So I end up with a dataset of the 100 submissions duplicated 10 times. 
+
+Does anyone know how I can fix this? I'll appreciate any help.
+
+    items_per_request = 100
+    total_requests = 10
+    last_id = None
+    for i in range(total_requests):
+    top_submissions = subreddit.top(time_filter='year', limit=posts_per_request, params={'after': last_id})
+        for submission in top_submissions:
+            submissions_dict['Title'].append(submission.title)
+            submissions_dict['Post Text'].append(submission.selftext)
+            submissions_dict['ID'].append(submission.id)
+                
+                last_id = submission.id",False,False,redditdev,'after' params doesn't seem to work,0.8,https://www.reddit.com/r/redditdev/comments/14el9f1/after_params_doesnt_seem_to_work/
+Ok-Departure7346,1687280939.0,14egtlp,False,True,PRAW,False,t3_14egtlp,12,False,/r/redditdev/comments/14egtlp/why_am_i_receiving_401_http_response/,2,"    client_id = ""<cut>"",
+    client_secret = ""<cut>"",
+    user_agent = ""script:EggScript:v0.0.1 (by /u/Ok-Departure7346)""
+    reddit = praw.Reddit( client_id=client_id,client_secret=client_secret,user_agent=user_agent
+    )
+    for submission in reddit.subreddit(""redditdev"").hot(limit=10):
+        print(submission.title)
+
+i have remove the client\_id and client\_secret in the post. it was working like 2 day a go but it stop so i start editing it down to this and all i get is
+
+    prawcore.exceptions.ResponseException: received 401 HTTP response
+edit:
+i did run the bot with the user agent set to EggScript or something like that for a while",False,False,redditdev,why am i receiving 401 HTTP response,0.67,https://www.reddit.com/r/redditdev/comments/14egtlp/why_am_i_receiving_401_http_response/
+swapripper,1687279693.0,14eg8gu,False,True,Reddit API,False,t3_14eg8gu,4,False,/r/redditdev/comments/14eg8gu/is_there_really_no_way_to_search_directly_for/,1,"I know I can get the comments in a subreddit and then loop over those one by one looking for that particular string. But that means I am unnecessarily going to traverse a whole lot unnecessary comments.
+
+Shouldn't there be like a 'query' parameter when searching for comments in a subreddit to restrict comments and essentially avoid transmitting+processing all that extra payload?
+
+Or am I missing something obvious? Would really appreciate any help here.",False,False,redditdev,Is there really no way to search directly for comments in a subreddit that contain a particular string?,0.67,https://www.reddit.com/r/redditdev/comments/14eg8gu/is_there_really_no_way_to_search_directly_for/
+Neoco1,1687271681.0,14ect6s,False,True,Reddit API,False,t3_14ect6s,3,False,/r/redditdev/comments/14ect6s/need_to_test_a_web_application_that_posts_reddit/,0,"I'm developing a web application that is capable of viewing Reddit posts and posting comments and replies. Testing this application will involve posting comments simply for the purpose of making sure my application works. I'm concerned that moderators will view this activity as spamming. Will this be allowed? If not, is there an alternative way to send POST requests for testing purposes?",False,False,redditdev,Need to test a web application that posts Reddit comments,0.5,https://www.reddit.com/r/redditdev/comments/14ect6s/need_to_test_a_web_application_that_posts_reddit/
+goldieczr,1687264623.0,14ea0bq,False,True,PRAW,False,t3_14ea0bq,3,False,/r/redditdev/comments/14ea0bq/how_to_slow_down_praw_so_i_dont_go_above_rate/,3,"I want to get the details of subreddits in a list of thousands, but I want to do it consistently without hitting the rate limit.
+
+How do I slow down praw to achieve this while also not losing too much time?
+
+Basically a way of doing requests at just under the rate limit",False,False,redditdev,How to slow down praw so I don't go above rate limit?,0.72,https://www.reddit.com/r/redditdev/comments/14ea0bq/how_to_slow_down_praw_so_i_dont_go_above_rate/
+KokishinNeko,1687207592.0,14dq6cy,False,True,PRAW,False,t3_14dq6cy,0,False,/r/redditdev/comments/14dq6cy/is_there_any_way_to_filter_by_comments_removed_by/,0,"With PRAW, by going through *subreddit.mod.modqueue* items we have *collapsed_reason* and *collapsed_reason_code*, however, the code is always ""CROWD_CONTROL"" no matter if the comment was removed by Crowd Control or ban evasion suspicion.
+
+Any chance to filter it?
+
+Thanks",False,False,redditdev,Is there any way to filter by comments removed by Reddit due to ban evasion suspicion?,0.5,https://www.reddit.com/r/redditdev/comments/14dq6cy/is_there_any_way_to_filter_by_comments_removed_by/
+StatusBus4154,1687171185.0,14db1de,False,True,Reddit API,False,t3_14db1de,7,False,/r/redditdev/comments/14db1de/no_feedback_regarding_commercialization_request/,20,"hello all,
+
+&#x200B;
+
+how long does it take to get a reply from asking for commercializing use?
+
+I do not get any replies or feedback to my request.
+
+&#x200B;
+
+Thanks in advance!",False,False,redditdev,No feedback regarding commercialization request,0.88,https://www.reddit.com/r/redditdev/comments/14db1de/no_feedback_regarding_commercialization_request/
+Adorable_Octopus,1687126545.0,14cwvht,False,True,PRAW,False,t3_14cwvht,4,False,/r/redditdev/comments/14cwvht/is_it_possible_to_access_more_than_1000_comments/,3,"Most solutions I've found floating around seem to be talking about pushshift, which isn't really working at the moment.",False,False,redditdev,Is it possible to access more than 1000 comments (etc) via Praw these days?,0.8,https://www.reddit.com/r/redditdev/comments/14cwvht/is_it_possible_to_access_more_than_1000_comments/
+ixfd64,1687122353.0,14cv6gv,False,True,Reddit API,False,t3_14cv6gv,30,False,/r/redditdev/comments/14cv6gv/some_questions_about_the_api_changes/,9,"I have a few questions about the upcoming API changes:
+
+1. For the enterprise tier, how are developers going to be billed for API usage? Do you have to buy API calls in advance, or are you going to be charged on a ""pay as you go"" basis?
+
+2. For free tier API users, is there going to be a way to check how many calls you have left during a rolling period? For example, if an app has made 30 API calls in the last minute, then is there a method that would indicate you still 70 available?",False,False,redditdev,Some questions about the API changes,0.91,https://www.reddit.com/r/redditdev/comments/14cv6gv/some_questions_about_the_api_changes/
+AintKarmasBitch,1687110415.0,14cqfu0,False,True,PRAW,False,t3_14cqfu0,6,False,/r/redditdev/comments/14cqfu0/how_can_a_mod_bot_tell_if_a_comment_has_been/,5,"I'm wanting to process historical comments but avoid ones that have been removed by other moderators. Since this is a mod account, there is full content in these removed comments. How can I tell if a comment had been removed (by another mod, not deleted by the user)?
+
+I cannot find anything helpful in the praw documentation, and google searches lead to old posts referencing a `banned_by` attribute and in one case a `removed` attribute, but neither of those are in the current praw docs.
+
+*UPDATE*: figured it out. It's not in the praw docs, you have to [query the object itself](https://praw.readthedocs.io/en/stable/getting_started/quick_start.html#determine-available-attributes-of-an-object) to see what's available. There is in fact both a `banned_by` and a `removed` attribute for Comment.
+
+There are a ton of these attributes, I've [pasted them here](https://pastebin.com/MfX8HqwH)",False,False,redditdev,How can a mod bot tell if a comment has been previously removed by other mods?,0.78,https://www.reddit.com/r/redditdev/comments/14cqfu0/how_can_a_mod_bot_tell_if_a_comment_has_been/
+AintKarmasBitch,1687043833.0,14c4vd9,False,True,PRAW,False,t3_14c4vd9,2,False,/r/redditdev/comments/14c4vd9/commentsave_what_happens_at_the_limit/,6,"I'm wanting to lean on `comment.save()` functionality to avoid processing the same comment twice. It seems reddit's limit is 1000. What happens if I have 1000 saved items and call `comment.save()`? I'm hoping it flushes the oldest item and indeed saves the new comment. Does anyone know for sure? If it throws an error, doesn't save the new comment, or flushes (for some odd reason) most recent comments first, I'd love to know!",False,False,redditdev,comment.save() What happens at the limit?,0.8,https://www.reddit.com/r/redditdev/comments/14c4vd9/commentsave_what_happens_at_the_limit/
+AintKarmasBitch,1687037822.0,14c2ise,False,True,PRAW,False,t3_14c2ise,2,False,/r/redditdev/comments/14c2ise/pull_recent_but_historical_comments_from_a/,1,"I'm basically looking to do the praw equivalent of this kind of web-based search ""[https://www.reddit.com/r/](https://www.reddit.com/r/)*subreddit*/search/?q=*keyword*&restrict\_sr=1&type=comment&sort=new""
+
+Not from an ongoing stream but historical. Great if I could specify a past-date to start from. Barring that, just limiting it to a certain number of comments would be fine.
+
+Surprisingly couldn't find any info on how to do this. I know Reddit didn't always have the ability to search for comments, so maybe that has something to do with it?
+
+I should clarify that I know how to just get the last x amount of comments from a sub, and then search through them, but I'm trying to see if there's a way to have the comments pulled in *already* be filtered for the search term. (This way any limitation on retrieving an amount of comments will be far less, since I'd only be retrieving the keyword-matching ones in the first place.)",False,False,redditdev,Pull recent (but historical) comments from a specific subreddit based on keyword match,0.6,https://www.reddit.com/r/redditdev/comments/14c2ise/pull_recent_but_historical_comments_from_a/
+graycatfat,1687013436.0,14bt0kg,False,True,Other API Wrapper,False,t3_14bt0kg,1,False,/r/redditdev/comments/14bt0kg/how_do_i_replicate_using_the_enter_key_with/,1,"    Subscribers  
+    #SubredditSubscribers
+    1	  funny	49&#x000D;&#x000A;  \       &nbsp;  \                &#x000D;&#x000A;  \       &nbsp;  \        
+    922&#x000D;&#x000A;  \       &nbsp;  \                &#x000D;&#x000A;  \       &nbsp;  \        195
+    2	  AskReddit	41&#x000D;&#x000A;  \       &nbsp;  \                &#x000D;&#x000A;  \       &nbsp;  \        
+    423&#x000D;&#x000A;  \       &nbsp;  \                &#x000D;&#x000A;  \       &nbsp;  \        197
+    3	  gaming	37&#x000D;&#x000A;  \       &nbsp;  \                &#x000D;&#x000A;  \       &nbsp;  \        
+    111&#x000D;&#x000A;  \       &nbsp;  \                &#x000D;&#x000A;  \       &nbsp;  \        894
+4	  worldnews	31&#x000D;&#x000A;  \       &nbsp;  \                &#x000D;&#x000A;  \       &nbsp;  \        963&#x000D;&#x000A;  \       &nbsp;  \                &#x000D;&#x000A;  \       &nbsp;  \        963
+5	  todayilearned	31&#x000D;&#x000A;  \       &nbsp;  \                &#x000D;&#x000A;  \       &nbsp;  \        806&#x000D;&#x000A;  \       &nbsp;  \                &#x000D;&#x000A;  \       &nbsp;  \        328
+6	  movies	31&#x000D;&#x000A;  \       &nbsp;  \                &#x000D;&#x000A;  \       &nbsp;  \        051&#x000D;&#x000A;  \       &nbsp;  \                &#x000D;&#x000A;  \       &nbsp;  \        399
+7	  Showerthoughts	27&#x000D;&#x000A;  \       &nbsp;  \                &#x000D;&#x000A;  \       &nbsp;  \        488&#x000D;&#x000A;  \       &nbsp;  \                &#x000D;&#x000A;  \       &nbsp;  \        575
+8	  news	26&#x000D;&#x000A;  \       &nbsp;  \           
+
+
+
+I have something like this now and I don't know how to modify it to make new lines without manually going through pressing the enter key many times.
+
+
+here is how it looks. I have looked up carriage return and newline and I can't figure out how to configure it on reddit.
+
+
+Subscribers  
+#SubredditSubscribers
+1	  funny	49&#x000D;&#x000A;  \       &nbsp;  \                &#x000D;&#x000A;  \       &nbsp;  \        922&#x000D;&#x000A;  \       &nbsp;  \                &#x000D;&#x000A;  \       &nbsp;  \        195
+2	  AskReddit	41&#x000D;&#x000A;  \       &nbsp;  \                &#x000D;&#x000A;  \       &nbsp;  \        423&#x000D;&#x000A;  \       &nbsp;  \                &#x000D;&#x000A;  \       &nbsp;  \        197
+3	  gaming	37&#x000D;&#x000A;  \       &nbsp;  \                &#x000D;&#x000A;  \       &nbsp;  \        111&#x000D;&#x000A;  \       &nbsp;  \                &#x000D;&#x000A;  \       &nbsp;  \        894
+4	  worldnews	31&#x000D;&#x000A;  \       &nbsp;  \                &#x000D;&#x000A;  \       &nbsp;  \        963&#x000D;&#x000A;  \       &nbsp;  \                &#x000D;&#x000A;  \       &nbsp;  \        963
+5	  todayilearned	31&#x000D;&#x000A;  \       &nbsp;  \                &#x000D;&#x000A;  \       &nbsp;  \        806&#x000D;&#x000A;  \       &nbsp;  \                &#x000D;&#x000A;  \       &nbsp;  \        328
+6	  movies	31&#x000D;&#x000A;  \       &nbsp;  \                &#x000D;&#x000A;  \       &nbsp;  \        051&#x000D;&#x000A;  \       &nbsp;  \                &#x000D;&#x000A;  \       &nbsp;  \        399
+7	  Showerthoughts	27&#x000D;&#x000A;  \       &nbsp;  \                &#x000D;&#x000A;  \       &nbsp;  \        488&#x000D;&#x000A;  \       &nbsp;  \                &#x000D;&#x000A;  \       &nbsp;  \        575
+8	  news	26&#x000D;&#x000A;  \       &nbsp;  \",False,False,redditdev,How do I replicate using the enter key with unicode or any other needed format to do it on reddit?,1.0,https://www.reddit.com/r/redditdev/comments/14bt0kg/how_do_i_replicate_using_the_enter_key_with/
+ps1AzSu6NG,1686993378.0,14bmc2p,False,True,Reddit API,False,t3_14bmc2p,11,False,/r/redditdev/comments/14bmc2p/will_the_api_changes_affect_chrome_extensions/,10,"Since u/spez had to clearly say that Reddit Enhancement Suite won't be affected I assume that other extension will break down after the API changes come to effect, won't they? I'm referring to extensions that show whether a post has been submitted to Reddit or where they show Reddit comments for YouTube videos. Thanks.",False,False,redditdev,Will the API changes affect Chrome Extensions?,0.76,https://www.reddit.com/r/redditdev/comments/14bmc2p/will_the_api_changes_affect_chrome_extensions/
+grvtyy_,1686833565.0,14a1o5i,False,True,PRAW,False,t3_14a1o5i,3,False,/r/redditdev/comments/14a1o5i/praw_filter_attributes_of_listingsgenerator/,2,"Hi guys,
+
+As Reddit shut down Pushshift, our research team had to go back to the official Reddit API to get data for our project. As each user is limited to a certain number of requests per minute (and probably other limits as well), we are currently reaching these limits quite frequently as we are scraping a decent amount of data from Reddit. We have a list of users obtained from a previous search and want their individual posts. For that, the `Redditor` instance and the associated `submission` in combination with `new` returned the `ListingsGenerator` object we want to investigate (sadly Reddit does not allow time-based search - the main reason we used Pushshift). As we do not require all attributes, I wanted to filter them - Pushshift had the `fillter` argument that only returned e.g. author, title and body of the submission. Is this possible utilising `PRAW` through the `generator_kwargs`? And if not, is it only a single request to get one submission from the generator or would it be one request per attribute per submission (with around 50 attributes or so this filtering will become quite expensive)? I also utilised `vars(submission)` but I am not sure if that does not just iterate over the generator (one request for each iteration) and then return these values to me...
+
+Maybe I am also mixing things up. Unfortunately, I could not find anyone asking this anywhere so maybe you guys can help us out!
+
+Thank you in advance for any help!",False,False,redditdev,PRAW Filter Attributes of ListingsGenerator,0.63,https://www.reddit.com/r/redditdev/comments/14a1o5i/praw_filter_attributes_of_listingsgenerator/
+ArchipelagoMind,1686706256.0,148v3mu,False,True,PRAW,False,t3_148v3mu,14,False,/r/redditdev/comments/148v3mu/couple_of_questions_for_a_small_bot_owner_and_the/,24,"I have a smallish bot that I wrote for a sub I moderate. 
+
+It's only on one sub so not massively API intensive and I assume would still be within the free limits. But I have two questions...
+
+A) my understanding is we get 1000api calls per (edit: every 10 mins, not day like I had) for free? How are those calculated? I'm particularly interested in how they interact with the PRAW Stream function? How does that function make calls and how often?
+
+B) if I am under the limit do I need to do anything before Jul 1, or for little bot makers like me will the transition to the new API land be seamless.",False,False,redditdev,Couple of questions for a small bot owner and the new API,1.0,https://www.reddit.com/r/redditdev/comments/148v3mu/couple_of_questions_for_a_small_bot_owner_and_the/
+goldieczr,1686624488.0,1484kx5,False,True,General Botmanship,False,t3_1484kx5,1,False,/r/redditdev/comments/1484kx5/good_way_to_schedule_post/,0,"Working on a reddit scheduler in the form of a website where users can log in through their reddit account, build posts (with calls to the reddit api to gather subreddit information like allowed post types & flairs), schedule posts based on date & time (along with other information such as crossposting, first comment, mod actions, etc) where they'll either go into a database or queue waiting for the right time to post.
+
+What's a good, efficient (without many opportunities for errors) and safe (for the user logins or whatever oauth stores) way to achieve this?
+
+My experience is limited to a bit of PRAW but I'd much rather learn something entirely new for a chance to build something properly rather than the alternative.",False,False,redditdev,Good way to schedule & post?,0.44,https://www.reddit.com/r/redditdev/comments/1484kx5/good_way_to_schedule_post/
+SunkenStone,1686624197.0,1484hrv,False,True,Reddit API,False,t3_1484hrv,28,False,/r/redditdev/comments/1484hrv/developer_platform_open/,15,"I just saw this section in [the announcement in the app](https://mods.reddithelp.com/hc/en-us/articles/16693988535309):
+
+> Developers looking to port over an existing moderation bot or tool to Reddit’s Developer Platform will be granted immediate access. Please contact the Developer Platform team to request access. Please indicate that you are in need of tool porting assistance in your message. 
+
+Does this mean that the developer platform is now open to anyone with an existing bot? For those who have already gotten in through the Beta, how is the development experience compared to the API?",False,False,redditdev,Developer Platform Open?,1.0,https://www.reddit.com/r/redditdev/comments/1484hrv/developer_platform_open/
+Chupa_Teresa,1686593136.0,147th5b,False,True,Reddit API,False,t3_147th5b,21,False,/r/redditdev/comments/147th5b/im_a_frontend_dev_whats_stopping_me_to_make_my/,5,"With the death of 3rd party apps, can't I build a simple UI for my exclusive personal use?
+
+Would I be limited in anyway with the recent api changes?
+
+Let's say I'll use OAuth to login and I only want a very simple experience. Check frontpage, check individual subreddits. Make a comment here and there. No awards, no upvoting, no weird stuff. Even commenting can be secondary. So basically a read only experience.
+
+Anything I'm missing?
+
+Will nsfw be included in this case?",False,False,redditdev,"I'm a frontend dev. What's stopping me to make my own personal UI in, let's say React Native, install the apk directly on my phone and be happy with my personal 3rd party app?",0.7,https://www.reddit.com/r/redditdev/comments/147th5b/im_a_frontend_dev_whats_stopping_me_to_make_my/
+ultimatt42,1686583960.0,147puv4,False,True,General Botmanship,False,t3_147puv4,24,False,/r/redditdev/comments/147puv4/you_broke_reddit/,79,"The page said I was redditing wrong and broke the site. I'm sorry if it was me, I don't know what I did. Please let me know how I can fix it so the site can work again.
+
+Should I reach out to admins? I'm collecting logs but I don't want to post them here. /u/spez let me know how I can help.",False,False,redditdev,You broke reddit,0.88,https://www.reddit.com/r/redditdev/comments/147puv4/you_broke_reddit/
+Boring-anav,1686575178.0,147np8a,False,True,Reddit API,False,t3_147np8a,7,False,/r/redditdev/comments/147np8a/reddit_api_return_forbidden_received_403_http/,3,i checked with another account .it shows same error  .I try to scrap data from several subreddits but it runs normally for second then it is show this error,False,False,redditdev,reddit api return Forbidden: received 403 HTTP response,0.62,https://www.reddit.com/r/redditdev/comments/147np8a/reddit_api_return_forbidden_received_403_http/
+vanessabaxton,1686568180.0,147lfz3,False,True,PRAW,False,t3_147lfz3,13,False,/r/redditdev/comments/147lfz3/is_there_a_way_to_retrieve_a_users_log_via_praw/,1,"Here's the typical interaction:
+
+User U makes a post  P with Flair F.
+
+Automod removes the post P automatically because User U used Flair F.
+
+User U then makes the same post but with a different flair A.
+
+Is there a way to check the user's log like in this image:  [https://imgur.com/a/RxA6KI6](https://imgur.com/a/RxA6KI6)
+
+via PRAW?
+
+My current code looks something like this:
+
+        # Print log
+        print(f""Mod: {log.mod}, Subreddit: {log.subreddit}"")```
+
+But what I'd like is to see if the removed post if there is one.
+
+Any ideas?",False,False,redditdev,Is there a way to retrieve a user's log via PRAW?,0.67,https://www.reddit.com/r/redditdev/comments/147lfz3/is_there_a_way_to_retrieve_a_users_log_via_praw/
+rarenick,1686468475.0,146nhk0,False,True,PRAW,False,t3_146nhk0,5,True,/r/redditdev/comments/146nhk0/very_confused_with_restrictions_to_nsfw_via_the/,17,"Context: I have a script (created via [reddit.com/prefs/apps](https://reddit.com/prefs/apps)) that gets my saved list and downloads media that is attached to each post (e.g. Reddit-hosted images, URL-linked images, etc) with PRAW.
+
+Will my app not be able to access my saved posts that are NSFW via PRAW?
+
+Here is the GitHub repository for the script: https://github.com/goonmandu/SavedDownloaderPraw",False,False,redditdev,Very confused with restrictions to NSFW via the Reddit API,0.96,https://www.reddit.com/r/redditdev/comments/146nhk0/very_confused_with_restrictions_to_nsfw_via_the/
+TimeJustHappens,1686449260.0,146hqw3,False,True,PRAW,False,t3_146hqw3,5,False,/r/redditdev/comments/146hqw3/why_does_praws_stream_generator_use_a_boundedset/,2,"_Disclaimer, I am not intimately familiar with PRAW's code and there is a high chance I misunderstand things._
+
+I have a pretty specific question about PRAW about the code shown [here](https://github.com/praw-dev/praw/blob/master/praw/models/util.py) in the source repository. Perhaps this is best directed at one of the authors like /u/bboe.
+
+`stream_generator()` uses `seen_attributes = BoundedSet(301)` to define the maximum amount of attributes the stream will retain when comparing to new entries called by the API. 
+
+The `BoundedSet` class is defined as _""A set with a maximum size that evicts the oldest items when necessary.""_
+
+My question is just why it is necessary to have a bounded set with length 301 when the `ListingGenerator` is limited to 100 with `limit = 100`? Since the `ListingGenerator` for streams like `subreddit.comments` will just return the chronologically most recent 100 entries, shouldn't the `BoundedSet` only need to be of length 100 so that it can compare against the new 100 entries (and in the process use a little less memory for constantly running streams than retaining 301 entries)? 
+
+301 just seemed like a very specific number and I was curious about the context of the decision. When running a large number of concurrent streams, I was wondering if this difference could have any significant impact on memory usage.
+
+Thanks!",False,False,redditdev,Why does PRAW's stream_generator() use a BoundedSet limit of 301?,0.67,https://www.reddit.com/r/redditdev/comments/146hqw3/why_does_praws_stream_generator_use_a_boundedset/
